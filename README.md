@@ -1,3 +1,9 @@
+###My contacts application built with angular seed. This has user authentications and full CRUD functionality to store and update Contacts. It uses bower as a package manager and node.
+
+### to use just clone and  run " NPM start" in Terminal 
+
+
+
 ## angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
