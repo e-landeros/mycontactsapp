@@ -1,4 +1,6 @@
-###My contacts application built with angular seed. This has user authentications and full CRUD functionality to store and update Contacts. It uses bower as a package manager and node.
+###My contacts application built with angular seed. This has user authentications and full CRUD functionality to store and update Contacts. It uses bower as a package manager and node. 
+I was practicing applications development using  Angular 1, ng-routes and connecting the application to Firebase DB through its API and the firebase angular service. 
+
 
 ### just clone and  run " NPM start" in Terminal 
 
